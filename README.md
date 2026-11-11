@@ -1,7 +1,7 @@
 # sulaimon_ikeoluwa_resistor_calculator.
 A Python-based resistor calculator that calculates resistance in series and parallel connections, compares results and handles invalid inputs.
 
-# Sulaimon Ikeoluwa - Resistor Combination Calculator
+
 
 ## Project Title
 Resistor Combination Calculator
